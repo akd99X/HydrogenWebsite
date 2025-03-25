@@ -1,6 +1,6 @@
 # Hydrogen Fuel Cell Calculator
 
-A web application developed by me to calculate hydrogen-to-power conversions, task-based hydrogen needs, and compare the CO₂ emissions and costs of different hydrogen production methods.
+A web application developed to calculate hydrogen-to-power conversions, task-based hydrogen needs, and compare the CO₂ emissions and costs of different hydrogen production methods.
 
 ---
 
