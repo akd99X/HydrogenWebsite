@@ -9,8 +9,6 @@ A web application developed by me to calculate hydrogen-to-power conversions, ta
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Team Members & Contributions](#team-members--contributions)
-- [Installation & Setup](#installation--setup)
-
 
 ---
 
@@ -55,11 +53,7 @@ This tool is designed to help researchers, businesses, and engineers make data-d
 
 ---
 
-## Installation & Setup
-### Clone the Repository
-```bash
-git clone https://github.com/zeinakotb/HydrogenWebsite.git
-cd HydrogenWebsite
+
 
 
 
